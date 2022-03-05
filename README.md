@@ -1,2 +1,1 @@
 # beadd.xyz
-beadd.xyz
